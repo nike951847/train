@@ -1,0 +1,9 @@
+classes= 2
+
+train  = cfg.chicken/train.txt
+
+valid  = cfg.chicken/test.txt
+
+names = /home/digits/jupyter/chtseng/opencv-cascade-make/yolo-v3/cfg.orange/obj.names
+
+backup = cfg.chicken/weights/

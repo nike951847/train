@@ -1,0 +1,26 @@
+<annotation>
+	<folder>辨識用資料</folder>
+	<filename>83185363_3088278947858624_7564370932282687488_n.jpg</filename>
+	<path>D:\科展\辨識用資料\83185363_3088278947858624_7564370932282687488_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2256</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Screaming chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>457</xmin>
+			<ymin>559</ymin>
+			<xmax>1471</xmax>
+			<ymax>2977</ymax>
+		</bndbox>
+	</object>
+</annotation>
